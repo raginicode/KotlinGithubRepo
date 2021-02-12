@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinGithubRepo</string>
+    <string name="title">Title</string>
+    <string name="placeholder">****************</string>
+    <string name="description">Description</string>
+    <string name="number">1233</string>
+    <string name="java">Java</string>
+    <string name="des">Description</string>
+</resources>
